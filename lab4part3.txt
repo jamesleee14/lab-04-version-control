@@ -13,6 +13,8 @@ Follow the instructions line-by-line.
 2. In your home directory, start editing a text file called temp.txt using nano.
 Write the command you used to do this below.
 ----------
+$touch temp.txt
+
 ==========
 3. Open another terminal
 [NO OUTPUT]
@@ -21,6 +23,8 @@ Write the command you used to do this below.
 3. In this terminal, show (list) all running processes / programs.
 Write the command that you used to do this, and the last two lines of output.
 ----------
+So I did $ls and I got this.
+
 ==========
 4. Run the same command, but look for a specific process.  (It's the version of the command that has | grep ...).  Look for the program that you started to edit a file, nano.
 Write the command that you used to do this, and all of the output.
